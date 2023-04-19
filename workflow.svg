@@ -515,6 +515,12 @@ MocAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
         <g fill="rgb(150,150,150)" text-rendering="optimizeLegibility"
            font-family="&apos;Segoe UI&apos;" stroke-linecap="butt"
            stroke="rgb(150,150,150)">
+            <line y2="318" fill="none" x1="345" clip-path="url(#clipPath25)"
+                  x2="353" y1="318"/>
+            <line y2="318" fill="none" x1="353" clip-path="url(#clipPath25)"
+                  x2="486" y1="318"/>
+            <line y2="318" fill="none" x1="486" clip-path="url(#clipPath25)"
+                  x2="494" y1="318"/>
             <line y2="238" fill="none" x1="125" clip-path="url(#clipPath25)"
                   x2="133" y1="238"/>
             <line y2="308" fill="none" x1="133" clip-path="url(#clipPath25)"
@@ -527,12 +533,6 @@ MocAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
                   x2="286" y1="378"/>
             <line y2="327" fill="none" x1="286" clip-path="url(#clipPath25)"
                   x2="294" y1="327"/>
-            <line y2="318" fill="none" x1="345" clip-path="url(#clipPath25)"
-                  x2="353" y1="318"/>
-            <line y2="318" fill="none" x1="353" clip-path="url(#clipPath25)"
-                  x2="486" y1="318"/>
-            <line y2="318" fill="none" x1="486" clip-path="url(#clipPath25)"
-                  x2="494" y1="318"/>
         </g>
     </g>
 </svg>
