@@ -87,7 +87,7 @@
                 <path d="M-3 -2 L37 -2 L37 9 L-3 9 L-3 -2 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath25">
-                <path d="M-1 -1 L1074 -1 L1074 838 L-1 838 L-1 -1 Z"/>
+                <path d="M-1 -1 L1220 -1 L1220 877 L-1 877 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g fill="white" stroke-miterlimit="0" stroke-width="0"
@@ -521,18 +521,18 @@ MocAAAAASUVORK5CYII=" xlink:actuate="onLoad"/>
                   x2="486" y1="318"/>
             <line y2="318" fill="none" x1="486" clip-path="url(#clipPath25)"
                   x2="494" y1="318"/>
-            <line y2="238" fill="none" x1="125" clip-path="url(#clipPath25)"
-                  x2="133" y1="238"/>
-            <line y2="308" fill="none" x1="133" clip-path="url(#clipPath25)"
-                  x2="286" y1="238"/>
-            <line y2="308" fill="none" x1="286" clip-path="url(#clipPath25)"
-                  x2="294" y1="308"/>
             <line y2="378" fill="none" x1="125" clip-path="url(#clipPath25)"
                   x2="133" y1="378"/>
             <line y2="327" fill="none" x1="133" clip-path="url(#clipPath25)"
                   x2="286" y1="378"/>
             <line y2="327" fill="none" x1="286" clip-path="url(#clipPath25)"
                   x2="294" y1="327"/>
+            <line y2="238" fill="none" x1="125" clip-path="url(#clipPath25)"
+                  x2="133" y1="238"/>
+            <line y2="308" fill="none" x1="133" clip-path="url(#clipPath25)"
+                  x2="286" y1="238"/>
+            <line y2="308" fill="none" x1="286" clip-path="url(#clipPath25)"
+                  x2="294" y1="308"/>
         </g>
     </g>
 </svg>
